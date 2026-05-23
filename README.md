@@ -1,8 +1,8 @@
-# 💻 Sistema de Controle de Laboratório
+# Sistema de Controle de Laboratório
 
 Um sistema de gerenciamento de empréstimos de equipamentos de laboratório desenvolvido em **Java** com persistência em banco de dados **MySQL**. Este projeto adota a arquitetura **DAO (Data Access Object)** para garantir um código limpo, modular e de fácil manutenção, separando as regras de negócio do acesso aos dados.
 
-## ⚙️ Funcionalidades Implementadas
+## Funcionalidades Implementadas
 
 O sistema opera via Interface de Linha de Comando (CLI) e possui as seguintes funcionalidades:
 
@@ -15,7 +15,7 @@ O sistema opera via Interface de Linha de Comando (CLI) e possui as seguintes fu
 - [x] Consulta de Empréstimos Ativos.
 - [x] Consulta de Histórico Completo de movimentações.
 
-## 🛠️ Tecnologias e Arquitetura
+## Tecnologias e Arquitetura
 
 * **Linguagem:** Java (Orientação a Objetos)
 * **Banco de Dados:** MySQL Relacional
@@ -23,7 +23,7 @@ O sistema opera via Interface de Linha de Comando (CLI) e possui as seguintes fu
 * **Arquitetura:** Camadas (Model, DAO, Database e Main)
 * **Gerenciamento de Transações:** Controle manual de `commit` e `rollback` em operações atômicas (ex: realizar empréstimos).
 
-## 🚀 Como executar o projeto na sua máquina
+## Como executar o projeto na sua máquina
 
 ### Pré-requisitos
 * Java JDK 11 ou superior.
