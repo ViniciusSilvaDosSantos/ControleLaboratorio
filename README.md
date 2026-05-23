@@ -6,14 +6,14 @@ Um sistema de gerenciamento de empréstimos de equipamentos de laboratório dese
 
 O sistema opera via Interface de Linha de Comando (CLI) e possui as seguintes funcionalidades:
 
-- [x] Cadastro de Alunos (com validação de matrícula única).
-- [x] Cadastro de Equipamentos.
-- [x] Listagem de Equipamentos Disponíveis.
-- [x] Realização de Empréstimos (relacionamento N:M).
-- [x] Bloqueio automático de empréstimo para equipamentos ocupados.
-- [x] Registro de Devolução (atualizando o status do equipamento).
-- [x] Consulta de Empréstimos Ativos.
-- [x] Consulta de Histórico Completo de movimentações.
+* Cadastro de Alunos (com validação de matrícula única).
+* Cadastro de Equipamentos.
+* Listagem de Equipamentos Disponíveis.
+* Realização de Empréstimos (relacionamento N:M).
+* Bloqueio automático de empréstimo para equipamentos ocupados.
+* Registro de Devolução (atualizando o status do equipamento).
+* Consulta de Empréstimos Ativos.
+* Consulta de Histórico Completo de movimentações.
 
 ## Tecnologias e Arquitetura
 
